@@ -1,8 +1,8 @@
+# 🏆 **Achievement:** Secured 2nd Place at CodeStorm 2K25 Hackathon
+
 # 🧠 MindMath - Brain Trainer
 
 A Python Tkinter-based desktop application to improve mental math skills through interactive quizzes.
-
-🏆 Secured 2nd place in a Hackathon
 
 ---
 
