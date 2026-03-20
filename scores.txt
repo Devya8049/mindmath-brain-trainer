@@ -1,0 +1,24 @@
+ff,5
+Viqar,5
+Viqar,7/10
+Viqar,8/10
+Viqar,7/10
+Viqar,8/10
+viqar,6/10
+Player,10/10 (Easy)
+Player,10/10 (Medium)
+Samuel,7/10 (Medium)
+Ankitha,9/10 (Random)
+Player,9/10 (Random)
+Grace,7/10 (Hard)
+SAm,3/5 (Easy)
+Sam,5/5 (Easy)
+Player,5/5 (Easy)
+Player,8/10 (Easy)
+ANKII,8/10 (Medium)
+Player,9/10 (Easy)
+Viqar,8/10 (Hard)
+Player,7/10 (Easy)
+Player,10/10 (Hard)
+Player,10/10 (Easy)
+Player,5/10 (Random)
